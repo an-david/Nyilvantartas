@@ -9,7 +9,7 @@ namespace Nyilvantartas
     class Gepjarmu
     {
         string rendszam;
-        string tipus;
+        string tipus; 
         string gyartmany;
         string teljesitmeny;
 
